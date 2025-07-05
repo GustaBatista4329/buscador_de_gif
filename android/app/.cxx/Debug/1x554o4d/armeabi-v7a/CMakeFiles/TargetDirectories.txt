@@ -1,0 +1,2 @@
+C:/Users/gusta/StudioProjects/estudo/busacador_gif/android/app/.cxx/Debug/1x554o4d/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/gusta/StudioProjects/estudo/busacador_gif/android/app/.cxx/Debug/1x554o4d/armeabi-v7a/CMakeFiles/rebuild_cache.dir
